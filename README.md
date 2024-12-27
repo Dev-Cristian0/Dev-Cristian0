@@ -7,7 +7,7 @@
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-cristian0&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
